@@ -2,4 +2,4 @@
 - 👀 I’m interested in Mobile App Development
 - 📲 I’m currently learning to build apps on React
 - 🖥️ Currently studying a Robotics Engineer Degree
-- 📫 How to reach me ... https://twitter.com/_Navaja_
+- 📫 How to reach me ... 
